@@ -328,9 +328,9 @@ Add screenshots of:
 Example:
 
 ```md
-![Dashboard](screenshots/dashboard.png)
-![CIS Results](screenshots/cisResults.png)
-![Packages](screenshots/packages.png)
+![Dashboard](https://github.com/appy-spec/secureOps/blob/main/screenShots/dashboard.png)
+![CIS Results](https://github.com/appy-spec/secureOps/blob/main/screenShots/cisResult.png)
+![Packages](https://github.com/appy-spec/secureOps/blob/main/screenShots/package.png)
 ```
 
 ---
