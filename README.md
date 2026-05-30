@@ -252,7 +252,7 @@ GET /api/cis-results
 {
   "hostname": "ubuntu-server",
   "os": "Ubuntu 22.04",
-  "ipAddress": "172.31.27.228",
+  "ipAddress": "17x.3x.2x.2xx",
   "packages": [
     {
       "name": "nginx",
