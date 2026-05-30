@@ -318,20 +318,16 @@ GET /api/cis-results
 
 ## Screenshots
 
-Add screenshots of:
+Screenshots of project:
 
-- Dashboard
-- Hosts Page
-- Packages Page
-- CIS Results Page
+### Dashboard
+![Dashboard](screenShots/dashboard.png)
 
-Example:
+### CisResult
+![CIS Results](screenShots/cisResult.png)
 
-```md
-![Dashboard](https://github.com/appy-spec/secureOps/blob/main/screenShots/dashboard.png)
-![CIS Results](https://github.com/appy-spec/secureOps/blob/main/screenShots/cisResult.png)
-![Packages](https://github.com/appy-spec/secureOps/blob/main/screenShots/package.png)
-```
+### Packages Page
+![Packages](screenShots/package.png)
 
 ---
 
